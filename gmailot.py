@@ -1,4 +1,3 @@
-advanced_gmail_bot.py.wsgi
 import os
 import logging
 import json
